@@ -9,7 +9,7 @@ const projectsData = [
   {
     title: 'Portfolio Website',
     description: 'The very website you are looking at! A responsive personal portfolio built with React and Tailwind CSS, featuring smooth animations with Framer Motion.',
-    imageUrl: '/public/Screenshot 2568-07-09 at 17.20.24.png', // Replace with a screenshot of your portfolio
+    imageUrl: '/Screenshot 2568-07-09 at 17.20.24.png', // Replace with a screenshot of your portfolio
     techStack: ['React', 'Tailwind CSS', 'Framer Motion'],
     githubUrl: 'https://github.com/yourusername/your-repo-name',
     liveUrl: null,
@@ -17,7 +17,7 @@ const projectsData = [
   {
     title: 'ThaiSign4All',
     description: 'A hackathon project used in Leagues of Code AI Hackathon where we developed an AI that can translate Thai Sign Language into text',
-    imageUrl: '/public/Screenshot 2568-07-09 at 17.24.29.png', // Replace with an image of your project
+    imageUrl: '/Screenshot 2568-07-09 at 17.24.29.png', // Replace with an image of your project
     techStack: ['Python', 'OpenCV', 'MediaPipe'],
     githubUrl: 'https://github.com/kanpizzzz/ThaiSign4All',
     liveUrl: null, // Use null if there's no live demo
@@ -25,7 +25,7 @@ const projectsData = [
   {
     title: 'SongthaewCNX',
     description: 'A MVP webapp for the project used in BDI Hackathon offering 3 features to help tourists use songthaews in Chiang Mai efficiently. ',
-    imageUrl: '/public/Screenshot 2568-07-09 at 17.22.11.png', // Replace with an image of your project
+    imageUrl: '/Screenshot 2568-07-09 at 17.22.11.png', // Replace with an image of your project
     techStack: ['Vue', 'Git'],
     githubUrl: 'https://github.com/P-cy/SongthaewFinal_Vue',
     liveUrl: 'https://songthaew-final-vue.vercel.app/',
@@ -33,7 +33,7 @@ const projectsData = [
   {
     title: 'AI Mental Disorder Detection',
     description: 'Developed an AI model to predict Depression , Bipolar 1 , Bipolar 2 from symptoms using Decision Tree , Naive Bayes and KNN. This project was made in ITCAMP20',
-    imageUrl: '/public/DSC01850.jpg', // Replace with an image of your project
+    imageUrl: '/DSC01850.jpg', // Replace with an image of your project
     techStack: ['Unity', 'C#'],
     githubUrl: 'https://github.com/tpzctrl/ITCAMP20-DAITA',
     liveUrl: null,
@@ -41,7 +41,7 @@ const projectsData = [
   {
     title: 'SportsDay Live Update Feed',
     description: 'Web for the staff to update remaining slots for each team and show live updates on the big screen in sportsday color selection.',
-    imageUrl: '/public/462638730_1071665214607216_132972447292963855_n.png', // Replace with an image of your project
+    imageUrl: '/462638730_1071665214607216_132972447292963855_n.png', // Replace with an image of your project
     techStack: ['HTML', 'CSS' , 'JavaScript' , 'FireBase'],
     githubUrl: 'https://github.com/tpzctrl/sportsday',
     liveUrl: 'https://sportsday53-4a5dc.web.app/',
@@ -49,7 +49,7 @@ const projectsData = [
   {
     title: 'Christmas Murder',
     description: 'A 3D FPS Game where an elf needs to fight monsters and collect keys. This project was made in ITCAMP21',
-    imageUrl: '/public/Screenshot 2568-07-10 at 18.11.04.png', // Replace with an image of your project
+    imageUrl: '/Screenshot 2568-07-10 at 18.11.04.png', // Replace with an image of your project
     techStack: ['Unreal Engine 5'],
     githubUrl: null,
     liveUrl: 'https://www.canva.com/design/DAGmEsfm6Yg/C4j4Q7OZCSObOVn7kp8c1w/edit?utm_content=DAGmEsfm6Yg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton',
@@ -57,7 +57,7 @@ const projectsData = [
   {
     title: 'Premier League Predictor',
     description: 'Mini data science project made in my free time to predict EPL matches outcome from different factors. Following a youtube tutorial by Dataquest.',
-    imageUrl: '/public/YfcLFQhjH3dBhA2tGqs8Qf.jpg', // Replace with an image of your project
+    imageUrl: '/YfcLFQhjH3dBhA2tGqs8Qf.jpg', // Replace with an image of your project
     techStack: ['Python'],
     githubUrl: 'https://github.com/tpzctrl/Premier-League-Predictor',
     liveUrl: null,

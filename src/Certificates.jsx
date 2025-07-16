@@ -9,97 +9,97 @@ const certificatesData = [
   {
     title: '1st Runners Up CUD Hackathon',
     issuer: 'Chulalongkorn University Demonstration School',
-    imageUrl: '/public/certs/IMG_7551.jpg', // Replace with path to your certificate image
+    imageUrl: '/certs/IMG_7551.jpg', // Replace with path to your certificate image
   },
   {
     title: 'BDI Hackathon Finalist',
     issuer: 'Big Data Institute & UP',
-    imageUrl: '/public/certs/Screenshot 2568-07-14 at 18.08.40.png',
+    imageUrl: '/certs/Screenshot 2568-07-14 at 18.08.40.png',
   },
   {
     title: 'ComCamp 36 ',
     issuer: 'Computer Engineering, KMUTT',
-    imageUrl: '/public/certs/BEC71410-F8C7-49F6-84DA-BC57243C0366.JPEG',
+    imageUrl: '/certs/BEC71410-F8C7-49F6-84DA-BC57243C0366.JPEG',
   },
   {
     title: 'Young iOS Developer Challenge',
     issuer: 'Swift Coding Club TH',
-    imageUrl: '/public/Screenshot 2568-07-14 at 17.09.46.png',
+    imageUrl: '/Screenshot 2568-07-14 at 17.09.46.png',
   },
   {
     title: 'ITCAMP20 - Data Science',
     issuer: 'School of IT, KMITL',
-    imageUrl: '/public/certs/BC7A7285-E675-45E4-B47F-ECC63D4F37AA.JPEG',
+    imageUrl: '/certs/BC7A7285-E675-45E4-B47F-ECC63D4F37AA.JPEG',
   },
   {
     title: 'Zigma Camp #9',
     issuer: 'Statistics Dept, CU',
-    imageUrl: '/public/6AA321BE-1868-47FC-A8E3-47F237C9818E.JPEG',
+    imageUrl: '/6AA321BE-1868-47FC-A8E3-47F237C9818E.JPEG',
   },
   {
     title: 'ITCAMP21 - Game',
     issuer: 'School of IT, KMITL',
-    imageUrl: '/public/certs/9DFA9BE8-B177-4C7F-886D-3742DE06C856.JPEG',
+    imageUrl: '/certs/9DFA9BE8-B177-4C7F-886D-3742DE06C856.JPEG',
   },
   {
     title: 'CAMT Gifted School',
     issuer: 'CAMT , CMU',
-    imageUrl: '/public/certs/C542F558-9B1D-4DE5-A5AE-6A73C9496F97.JPEG',
+    imageUrl: '/certs/C542F558-9B1D-4DE5-A5AE-6A73C9496F97.JPEG',
   },
   {
     title: 'ClickCamp 15',
     issuer: 'Computer Engineering , MU',
-    imageUrl: '/public/certs/Screenshot 2568-05-30 at 18.46.55.png',
+    imageUrl: '/certs/Screenshot 2568-05-30 at 18.46.55.png',
   },
   {
     title: 'ITCLASH (CyberSecurity Redteam) | Finalist',
     issuer: 'School of IT, KMITL',
-    imageUrl: '/public/certs/Certificate-ธาม พัทธวรากร-IT CLASH กิจกรรมการแข่งขันทักษะเขียนโปรแกรมและไซเบอร์ (Red Team เข้าร่วม) (1).jpg',
+    imageUrl: '/certs/Certificate-ธาม พัทธวรากร-IT CLASH กิจกรรมการแข่งขันทักษะเขียนโปรแกรมและไซเบอร์ (Red Team เข้าร่วม) (1).jpg',
   },
   {
     title: "TobeIT'68'",
     issuer: 'School of IT, KMITL',
-    imageUrl: '/public/certs/BD114376-DE43-4CD3-A435-F27CF885FF96.JPEG',
+    imageUrl: '/certs/BD114376-DE43-4CD3-A435-F27CF885FF96.JPEG',
   },
   {
     title: "2nd Runners up LOC AI Hackathon",
     issuer: 'HarbourSpace@UTCC',
-    imageUrl: '/public/certs/IMG_FC6F65079460-1.jpeg',
+    imageUrl: '/certs/IMG_FC6F65079460-1.jpeg',
   },
   {
     title: "First Tech Challenge 2023",
     issuer: 'PRC & Engineering , CMU',
-    imageUrl: '/public/certs/65A3BCF5-257F-442A-A332-887B06915AA5.JPEG',
+    imageUrl: '/certs/65A3BCF5-257F-442A-A332-887B06915AA5.JPEG',
   },
   {
     title: "First Tech Challenge 2024",
     issuer: 'PRC & Engineering , CMU',
-    imageUrl: '/public/certs/IMG_7601.jpg',
+    imageUrl: '/certs/IMG_7601.jpg',
   },
   {
     title: "Build Your Own AI",
     issuer: 'Global Technology Club , KMITL',
-    imageUrl: '/public/certs/IMG_EF0D6FEE55FB-1.jpeg',
+    imageUrl: '/certs/IMG_EF0D6FEE55FB-1.jpeg',
   },
   {
     title: "Robot Conquer",
     issuer: 'CAMT , CMU',
-    imageUrl: '/public/certs/F844E278-0046-4C0D-B59A-3A4BDF3B6499.JPEG',
+    imageUrl: '/certs/F844E278-0046-4C0D-B59A-3A4BDF3B6499.JPEG',
   },
   {
     title: "AI Camera",
     issuer: 'CAMT , CMU',
-    imageUrl: '/public/certs/6846CDBB-AD2C-40BC-A702-4CD58CFF6BB2.JPEG',
+    imageUrl: '/certs/6846CDBB-AD2C-40BC-A702-4CD58CFF6BB2.JPEG',
   },
   {
     title: "Certificate of Academic Excellence (Grade 10)",
     issuer: 'Chiang Mai University Demonstration School',
-    imageUrl: '/public/certs/A5788899-ABCA-4054-B481-F5A86B945A44.JPEG',
+    imageUrl: '/certs/A5788899-ABCA-4054-B481-F5A86B945A44.JPEG',
   },
   {
     title: "Certificate of Academic Excellence (Grade 11)",
     issuer: 'Chiang Mai University Demonstration School',
-    imageUrl: '/public/cert-itcamp20.png',
+    imageUrl: '/certs-itcamp20.png',
   },
   
 ];
