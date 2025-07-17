@@ -85,6 +85,6 @@ Ensure you have Node.js (v16 or later) and npm installed on your machine.
 **Time Pattavarakorn**
 
 * **GitHub:** [@tpzctrl](https://github.com/tpzctrl)
-* **Email:** `youremail@example.com` <!-- TODO: Add your email address -->
+* **Email:** `tubetime6@gmail.com` <!-- TODO: Add your email address -->
 
 Feel free to reach out if you have any questions or just want to connect!
