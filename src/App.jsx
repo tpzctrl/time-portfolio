@@ -60,7 +60,7 @@ export default function App() {
       >
         <div className="flex flex-col items-center text-center md:flex-row md:text-left md:gap-12 mt-[-5rem]">
             <motion.img
-              src="/IMG_7373 copy.jpeg"
+              src={`${import.meta.env.BASE_URL}IMG_7373 copy.jpeg`}
               alt="Profile"
               className="w-64 h-64 object-cover rounded-3xl shadow-xl mb-6 md:mb-0"
               initial={{ opacity: 0, y: 0 }}

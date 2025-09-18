@@ -19,7 +19,7 @@ export default function PersonalInfo() {
         {/* --- NEW LAYOUT WRAPPER FOR IMAGE AND BIO --- */}
         <div className="flex flex-col items-center md:flex-row md:items-center gap-6 mb-6">
             <img 
-                src="/public/IMG_7373 copy.jpeg"
+                src={`${import.meta.env.BASE_URL}IMG_7373 copy.jpeg`}
                 alt="Profile"
                 className="w-32 h-32 rounded-2xl object-cover flex-shrink-0" // Removed bottom margin
             />
